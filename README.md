@@ -1,5 +1,4 @@
 - 🇮🇱 Israeli-American
-- 🕍 Man of G-d
 - 🧪️ Man of Science
 - 😼 Mainecoon Enthusiast
 - 💻 Python, C++ Spaghetti Code King!
