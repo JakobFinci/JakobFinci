@@ -1,10 +1,23 @@
-- 🇮🇱 Israeli-American
-- 🧪️ Man of Science
-- 😼 Mainecoon Enthusiast
-- 💻 Python, C++ Spaghetti Code King!
-    - Also know COBOL, SQL, MATLAB
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: left;">
+        <ul>
+            <li>🇮🇱 Israeli-American</li>
+            <li>🧪️ Man of Science</li>
+            <li>😼 Mainecoon Enthusiast</li>
+            <li>💻 Python, C++ Spaghetti Code King!
+                <ul>
+                    <li>Also know COBOL, SQL, MATLAB</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<img src="IsraeliCat.gif" alt="Israeli Cat">
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkzMjU1MTU4Zjg3ODU5MDI1ZDg2MzQ3MmM4ZGZkMTRkMjY5MmVjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LmYieKkV1HROCH9Lye/giphy.gif" />
-</p>
+
+
+
+
+
