@@ -6,7 +6,7 @@
                 <li>😼 Mainecoon Enthusiast</li>
                 <li>💻 Python, C++ Spaghetti Code King!
                     <ul>
-                        <li>Also know COBOL, SQL, MATLAB</li>
+                        <li>Also know COBOL, SQL, MATLAB, Typescript</li>
                     </ul>
                 </li>
             </ul>
