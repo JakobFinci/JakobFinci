@@ -4,7 +4,7 @@
                 <li>🇮🇱 Israeli-American</li>
                 <li>🧪️ Man of Science</li>
                 <li>😼 Mainecoon Enthusiast</li>
-                <li>💻 Python, C++ Spaghetti Code King!
+                <li>💻 Python, C/C++ Spaghetti Code King!
                     <ul>
                         <li>Also know COBOL, SQL, MATLAB, Typescript</li>
                     </ul>
