@@ -8,7 +8,7 @@
                     <ul>
                         <li>Also know COBOL, SQL, MATLAB, Typescript</li>
                     </ul>
-                <li>JakobFinci.github.io</li>
+                <p><a href="https://JakobFinci.github.io" target="_blank">JakobFinci.github.io</a></p>
                 </li>
             </ul>
         </div>
